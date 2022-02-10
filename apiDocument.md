@@ -37,6 +37,8 @@ https://foodscapee.herokuapp.com/filter/2?lcost=200&hcost=500&sort=-1
 
 => Pagination: 
 https://foodscapee.herokuapp.com/filter/1?cuisine=1&skip=0&limit=2 
+
+=> Data w.r.t City & Mealtype(optional): 
 https://foodscapee.herokuapp.com/restaurants?state_id=1&mealtype_id=2
 
 
@@ -59,6 +61,7 @@ https://foodscapee.herokuapp.com/menuItem
 Page 5:
 => List all orders: 
 https://foodscapee.herokuapp.com/orders
+
 https://foodscapee.herokuapp.com/orders?email=falguni@gmail.com
 
 
